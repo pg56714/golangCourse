@@ -11,6 +11,25 @@ Windows Antivirus Software Settings -> Virus & Threat Protection -> Virus & Thre
 1. C:\Users\user\AppData\Local\Temp
 2. C:\Users\user\Desktop\project\golangCourse
 
+## Code Run
+
+```shell
+go mod init golangCourse
+```
+
+1. go build
+
+```shell
+go build main.go
+main
+```
+
+2. go run
+
+```shell
+go run main.go
+```
+
 ## Source
 
 [golang-download](https://go.dev/dl/)
@@ -24,3 +43,5 @@ Windows Antivirus Software Settings -> Virus & Threat Protection -> Virus & Thre
 [golang-error](https://blog.csdn.net/u_say2what/article/details/134669122)
 
 [golang-issue](https://github.com/golang/go/issues/38160)
+
+[golang-go-mod](https://medium.com/%E5%BE%AE%E5%B3%AF%E9%A3%9B%E7%BF%94/golang-go-mod-%E8%B5%B7%E6%89%8B%E5%8B%A2-39a0be969ffc)
